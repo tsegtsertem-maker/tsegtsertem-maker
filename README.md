@@ -9,7 +9,7 @@
 
 ### 🐍 About Me
 
-```js
+js
 const cobra = {
   location: "Mongolia 🇲🇳",
   grade: "11th grade student",
@@ -42,7 +42,7 @@ const cobra = {
   languagesSpoken: ["English", "Mongolian"],
   philosophy: "learn by trying, troubleshoot when it breaks"
 };
-```
+
 
 > *"Building, breaking, fixing — one line of code and one frame at a time."*
 
@@ -51,18 +51,18 @@ const cobra = {
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-cobragangg-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:tsegtser.tem@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://instagram.com/something_cobra" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-> Replace `your-discord-id`, `your-email@example.com`, and `your-instagram` above with your real handles.
+
 
 ---
 
