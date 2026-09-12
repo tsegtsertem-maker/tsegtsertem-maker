@@ -7,62 +7,17 @@
 
 ---
 
-### 🐍 About Me
-
-js
-const cobra = {
-  location: "Mongolia 🇲🇳",
-  grade: "11th grade student",
-
-  learning: ["C", "Python"],
-  startedWith: "Python",
-  currentlyGrinding: "C",
-  style: "beginner, learning through projects",
-
-  gaming: {
-    mainGame: "VALORANT",
-    role: "competitive FPS player",
-    goal: "compete seriously in esports",
-    focus: [
-      "aim training", "reaction time", "sensitivity",
-      "crosshairs", "stretched resolution", "fps optimization"
-    ]
-  },
-
-  hardware: {
-    cpu: "Intel i5-14400F",
-    gpu: "RTX 3060",
-    ram: "32GB",
-    monitor: "ASUS 240Hz",
-    keyboard: "KZ75 Lite",
-    headset: "Black Shark V2"
-  },
-
-  schoolInterests: ["Physics", "IT", "Social Studies/Law", "English"],
-  languagesSpoken: ["English", "Mongolian"],
-  philosophy: "learn by trying, troubleshoot when it breaks"
-};
-
-
-> *"Building, breaking, fixing — one line of code and one frame at a time."*
-
----
-
 ### 🔗 Connect With Me
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Discord-cobragangg-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-cobragangg-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="mailto:tsegtser.tem@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/something_cobra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-something__cobra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-
 
 ---
 
